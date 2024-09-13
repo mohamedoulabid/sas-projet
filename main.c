@@ -313,7 +313,7 @@ void reussidepartement()
 }
 
 
-{
+int main(){
     int choix;
     int possibilite;
     do
